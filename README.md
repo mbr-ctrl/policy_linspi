@@ -1,5 +1,4 @@
 # Linspi
-Voici une proposition de **règles de confidentialité** pour ton application en **fr-FR** :  
 
 ---
 
